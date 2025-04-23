@@ -2,6 +2,7 @@ Feedback App, kullanıcıların geri bildirimlerini toplamak ve yönetmek için 
 
 
 ÖZELLİKLER
+
 Kullanıcı dostu arayüz
 
 Geri bildirim gönderme ve düzenleme
@@ -11,6 +12,7 @@ Geri bildirimleri listeleme ve filtreleme
 Geri bildirimlere yorum yapabilme
 
 TEKNOLOJİLER
+
 Bu proje, aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
 Next.js
@@ -22,15 +24,19 @@ Prisma
 Tailwind CSS
 
 KURULUM
+
 Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
 BAĞIMLILIKLARI YÜKLEME
+
 npm install
 
 VERİTABANI YAPILANDIRMASI
+
 Veritabanı bağlantı ayarlarını .env dosyasına ekleyin.
 
 KULLANIM
+
 Uygulamayı kullanmaya başlamak için:
 
 Ana sayfada "Yeni Geri Bildirim Gönder" butonuna tıklayın.
@@ -40,6 +46,7 @@ Geri bildiriminizi yazın ve gönderin.
 Geri bildiriminiz listeye eklenecektir.
 
 KATKI SAĞLAMA
+
 Katkılarınız projeyi daha iyi hale getirebilir! Katkı sağlamak için:
 
 Bu repository'yi fork edin.
@@ -52,5 +59,6 @@ Branch'ınızı GitHub'a push edin (git push origin feature/your-feature).
 
 Bir Pull Request açın.
 
-Lisans
+LİSANS
+
 Bu proje MIT Lisansı ile lisanslanmıştır.
